@@ -1,2 +1,6 @@
-# aws-cli-examples
-A repository to create aws cli examples and play around with the aws cli.
+# Overview
+
+- [Overview](#overview)
+- [How to Contribute to this repository](./CONTRIBUTING.md)
+
+A repository to store examples of aws cli commands.
